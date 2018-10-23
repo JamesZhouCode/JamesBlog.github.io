@@ -1,2 +1,6 @@
 # JamesBlog.github.io
-the blog of JamesZhou
+Welcome to my blog and have a nice day!
+
+
+-list
+-menu
